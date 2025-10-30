@@ -85,6 +85,8 @@ I'm currently pursuing software engineering studies, with coursework in:
 
 ## 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=borisonekenobi&color=blue)
+
 - 📦 **43 Public Repositories**
 - ⭐ **Total Stars Received:** 16+
 - 🔱 **Active Forks:** 5+
