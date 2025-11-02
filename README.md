@@ -24,16 +24,16 @@ Explore the documentation: [https://borisonekenobi.github.io/DynoC-Docs/](https:
 
 ## 💻 Technologies & Languages
 
-![C](https://img.shields.io/badge/-C-A9BACD?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
-![DynoC](https://img.shields.io/badge/-DynoC-EDB405?style=flat-square&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-280068?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-5382A1?style=flat-square&logo=java&logoColor=F8981D)
-![Python](https://img.shields.io/badge/-Python-FFCE3D?style=flat-square&logo=python&logoColor=3774A6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEDC22?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-F26837?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-149FDA?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A9BACD?style=flat-square&logo=c&logoColor=white&labelColor=white)
+![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=004482)
+![DynoC](https://img.shields.io/badge/DynoC-white?style=flat-square&logoColor=white&labelColor=EDB405)
+![C#](https://img.shields.io/badge/C%23-white?style=flat-square&logo=c-sharp&logoColor=white&labelColor=280068)
+![Java](https://img.shields.io/badge/Java-F8981D?style=flat-square&logo=java&logoColor=white&labelColor=5382A1)
+![Python](https://img.shields.io/badge/Python-3774A6?style=flat-square&logo=python&logoColor=white&labelColor=FFCE3D)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=white&labelColor=FEDC22)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6)
+![HTML](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=white&labelColor=F26837)
+![CSS](https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=white&labelColor=149FDA)
 
 ## 🎯 Interests
 
