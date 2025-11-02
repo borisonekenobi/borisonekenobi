@@ -24,14 +24,16 @@ Explore the documentation: [https://borisonekenobi.github.io/DynoC-Docs/](https:
 
 ## 💻 Technologies & Languages
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A9BACD?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![DynoC](https://img.shields.io/badge/-DynoC-EDB405?style=flat-square&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-280068?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-5382A1?style=flat-square&logo=java&logoColor=F8981D)
+![Python](https://img.shields.io/badge/-Python-FFCE3D?style=flat-square&logo=python&logoColor=3774A6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEDC22?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-F26837?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-149FDA?style=flat-square&logo=css3&logoColor=white)
 
 ## 🎯 Interests
 
